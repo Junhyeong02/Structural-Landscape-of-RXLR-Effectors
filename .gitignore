@@ -2,3 +2,6 @@
 *.pdb
 
 .ipynb_checkpoints
+
+data/
+analysis/
